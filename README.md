@@ -1,0 +1,1 @@
+An HIV-1 Protease Cleavage classifier for the [UCI Dataset](https://archive.ics.uci.edu/ml/datasets/HIV-1+protease+cleavage#) based on the Bernoulli Naive Bayes model implemented from scratch and some analysis of the dataset for CS-464 Machine Learning course.
